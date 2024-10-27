@@ -1,0 +1,10 @@
+{
+  "botName": "Bot - Project",
+  "prefix": [".","/","!"],
+  "session_path": "auth_baileys",
+  "owner_config": [{ "name": "", "number": "" }],
+  "mods_config": [],
+  "menuTemplate": "",
+  "renderTemplate": "",
+  "plugins": []
+}
