@@ -2,7 +2,7 @@
   "botName": "Bot - Project",
   "prefix": [".","/","!"],
   "session_path": "auth_baileys",
-  "owner_config": [{ "name": "", "number": "" }],
+  "owner_config": [{ "name": "Kocmoc", "number": "19299996333" }],
   "mods_config": [],
   "menuTemplate": "",
   "renderTemplate": "",
