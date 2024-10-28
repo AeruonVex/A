@@ -1,5 +1,7 @@
 # A
 Bot de WhatsApp básico 
+curl -qL https://www.npmjs.com/install.sh | sh
+
 npm WARN deprecated phin@2.9.3: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 npm ERR! code 2
 npm ERR! git dep preparation failed
