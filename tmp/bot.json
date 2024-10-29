@@ -1,8 +1,8 @@
 {
-  "botName": "Bot - Project",
+  "botName": "Lain-Bot",
   "prefix": [".","/","!"],
   "session_path": "auth_baileys",
-  "owner_config": [{ "name": "Kocmoc", "number": "19299996333" }],
+  "owner_config": [{ "name": "Køcmoc", "number": "19299996333" }],
   "mods_config": [],
   "menuTemplate": "https://f.uguu.se/wqgnvQHh.jpg",
   "renderTemplate": "",
