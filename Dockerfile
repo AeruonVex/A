@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 3000
 
 # Usa PM2 para correr la aplicación
-CMD ["pm2-runtime", "start", "app.js"]
+CMD ["pm2-runtime", "start", "main.js"]
